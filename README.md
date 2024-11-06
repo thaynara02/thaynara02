@@ -8,16 +8,21 @@
 
 
 
+⋙Idade ⅩⅦ
 
 📚 Estudo no INSTITUTO FEDERAL
 
 💻 Atualmente estou desenvolvendo um site de venda
 
-💡 Foco esta sendo a conclusão e inicio a uma loja digital
+💡 Estou focoda na conclusão do meu projeto de loja online
 
 ## Profissionais
 
 👩‍🎓 3/3 tecnica em informática
+
+💻 Dona de um site de loja criada por mim 
+
+➺ Experiente em personalização
 
 ## Habilidades Pessoais
 
@@ -39,7 +44,7 @@
 
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thaynara02&repo=lar_conforto_loja&bg_color=0d1117&border_color=459a96&show_icons=true&icon_color=30A3DC&title_color=076461&text_color=FFF)](https://github.com/LudimilaOliveira/lar_conforto_loja)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thaynara02&repo=Belle-botique&bg_color=0d1117&border_color=459a96&show_icons=true&icon_color=30A3DC&title_color=076461&text_color=FFF)](https://github.com/thaynara02/Belle-botique)
 
 
 
